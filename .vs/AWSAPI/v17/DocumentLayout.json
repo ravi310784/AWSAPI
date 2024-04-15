@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|c:\\users\\ravik\\onedrive\\documents\\github\\awsapi\\awsapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|solutionrelative:awsapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|c:\\users\\ravik\\onedrive\\documents\\github\\awsapi\\awsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|solutionrelative:awsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|c:\\users\\ravik\\onedrive\\documents\\github\\awsapi\\awsapi\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|solutionrelative:awsapi\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|c:\\users\\ravik\\onedrive\\documents\\github\\awsapi\\awsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|solutionrelative:awsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|c:\\users\\ravik\\onedrive\\documents\\github\\awsapi\\awsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06931EF-3726-4B2C-B5A7-D46621A8B669}|AWSAPI\\AWSAPI.csproj|solutionrelative:awsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AWSAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AWSAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T02:40:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aws-lambda-tools-defaults.json",
+              "DocumentMoniker": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\aws-lambda-tools-defaults.json",
+              "RelativeDocumentMoniker": "AWSAPI\\aws-lambda-tools-defaults.json",
+              "ToolTip": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\aws-lambda-tools-defaults.json",
+              "RelativeToolTip": "AWSAPI\\aws-lambda-tools-defaults.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T02:40:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AWSAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AWSAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:36:10.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AWSAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AWSAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:36:00.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AWSAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ravik\\OneDrive\\Documents\\GitHub\\AWSAPI\\AWSAPI\\Program.cs",
+              "RelativeToolTip": "AWSAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:32:16.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

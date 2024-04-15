@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "net8.0",
+    "function-name" : "AWSAPI",
+    "package-type"  : "Zip",
+    "function-handler" : "AWSAPI",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::656402993457:role/lambda_exec_AWSAPI",
+    "function-timeout"     : 10,
+    "function-runtime"     : "dotnet8",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : "",
+    "function-description"     : ""
+}
